@@ -1,2 +1,6 @@
 # Data-Visualization---Energy-Feedback-and-Information-System
 Energy Feedback and Information Systems project is to develop a user interface for a new generation intelligent mobile machines to inform the operator about the efficiency level of his/her operating maneuvers.  Data is visualized both for the operator and for the machine owner through network.
+
+Main function of the EFIS is giving feedback on the energy efficiency and productivity of the machine to operator. The EFIS teaches the operator to use the machine as efficiently as possible. Efficiency of the machine operation can be estimated in multiple ways based on the sensor data and the data from the ECUs (Electronic Controller Units). User interface can inform the operator e.g. about the diesel fuel consumption and efficiency, Input and output powers, efficiency from fuel to gravel etc. The new hydraulic control system being developed is relying more on sensors and software than before and it offers new possibilities to give feedback for the operator.
+
+The developed user interface includes a graphical interface and the GUI design should be done taking into account the typical operator profiles of an excavator operator. The physical interface should be as fluent to use as possible also in harsh work environments.
