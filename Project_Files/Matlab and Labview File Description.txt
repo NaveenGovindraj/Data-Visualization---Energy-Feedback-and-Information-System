@@ -1,3 +1,5 @@
+Note: Not able to upload the matlab file as the MATLAB file exceeds the limitations for upload. But this project can be utilized with any matlab file (*.mat) and matlab simulink file as well. the users need to change the parameters in the labview file accordingly.
+
 User Interface design is implemented by using data from real-time excavator measurements, and visualized using LabVIEW. 
 
 The excavator measurements or the data source which can be utilized is a Matlab file or a Matlab Simulink model.
