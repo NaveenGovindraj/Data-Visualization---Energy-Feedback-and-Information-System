@@ -2,7 +2,6 @@ User Interface design is implemented by using data from real-time excavator meas
 
 The excavator measurements or the data source which can be utilized is a Matlab file or a Matlab Simulink model.
 
-
 This Labview User interface is integarted with matlab by which the user interface facilitates the user to make the interlink between the UI and the Matlab file.
 
-The data extracted from the matlab or the simulink file is visualized is a more human readable form.
+The data extracted from the matlab or the simulink file is visualized is a more human readable form. 
